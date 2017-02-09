@@ -10,8 +10,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO.Ports;
 
-
-
 namespace amd_p
 {
     public partial class Form1 : Form
